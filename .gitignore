@@ -1,0 +1,11 @@
+# ignore data folder
+data/
+
+#ignore idea folder
+.idea/
+
+# ignore byte-compiled / optimized / DLL files
+__pycache__/
+
+
+
